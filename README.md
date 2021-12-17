@@ -20,3 +20,10 @@ frontend-nanodegree-mobile-portfolio
 - Creat local variables
 	-	Creat local variables on line to do not touch their value at every iteration.
 	- Creat local variables on line to calculate the number of pizzas needed to fill the screen, based on browser window resolution.
+
+
+![page-performance-result-desktop](./screenshots/web.png)
+
+![page-performance-result-mobile](./screenshots/mobile.png)
+
+![page-performance-using-chrome-dev-tool](./screenshots/chrome_dev_tool.png)
